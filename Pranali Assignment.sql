@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-USE CES_PRJ_BIBA_UAT
-
 --DROP TABLE PRANALI_ASSESSMENT_22JAN2025;
 
 --Total Count
